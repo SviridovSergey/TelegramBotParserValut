@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from telebot import types
 
 # Токен бота
-TOKEN = '8025501437:AAGL5SYUtj-ua-6LQxTp9PbklC980ssOA5M'
+TOKEN = '7660135892:AAGJUITL2HOiyKjUqZPE5MmnYfE8vRKaki4'
 bot = telebot.TeleBot(TOKEN)
 
 # Настройка логирования
